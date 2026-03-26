@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Travel Companion App</string>
+
+    <string name="title_travel_companion">Travel Companion App</string>
+    <string name="subtitle_converter">Quick converter for travellers</string>
+
+    <string name="label_category">Select Category</string>
+    <string name="label_source">From</string>
+    <string name="label_destination">To</string>
+    <string name="label_value">Enter Value</string>
+
+    <string name="hint_enter_value">Enter value</string>
+    <string name="button_convert">Convert</string>
+    <string name="default_result">Converted value will appear here</string>
+
+    <string-array name="category_options">
+        <item>Currency</item>
+        <item>Fuel Efficiency</item>
+        <item>Liquid Volume</item>
+        <item>Temperature</item>
+        <item>Distance</item>
+    </string-array>
+
+    <string-array name="currency_options">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+    </string-array>
+
+    <string-array name="fuel_options">
+        <item>mpg</item>
+        <item>km/L</item>
+    </string-array>
+
+    <string-array name="liquid_options">
+        <item>Gallon (US)</item>
+        <item>Liters</item>
+    </string-array>
+
+    <string-array name="temperature_options">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="distance_options">
+        <item>Nautical Mile</item>
+        <item>Kilometers</item>
+    </string-array>
+</resources>
